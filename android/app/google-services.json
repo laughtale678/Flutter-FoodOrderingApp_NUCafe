@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11515955897",
+    "project_id": "nucafe-b7732",
+    "storage_bucket": "nucafe-b7732.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11515955897:android:697ced7ef9ed84b589a968",
+        "android_client_info": {
+          "package_name": "com.example.flutter_nu_cafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqnYZOl5gbxdYsPhkmJdYMgqhge2VG8_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
