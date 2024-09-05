@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # flutter_nu_cafe
 
 A new Flutter project.
